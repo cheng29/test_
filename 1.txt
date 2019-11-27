@@ -1,4 +1,6 @@
 begin
 const a=1;
-a=100;
+var aa=100;
+var c=-aa+(a+1)*(-(aa)+200);
+print(c);
 end
