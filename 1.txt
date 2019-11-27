@@ -1,0 +1,4 @@
+begin
+const a=1;
+a=100;
+end
